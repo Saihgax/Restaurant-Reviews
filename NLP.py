@@ -35,6 +35,11 @@ for i in range (0, 1000):
     review = ' '.join(review)
     corpus.append(review)
     
+    
+        # ParthHAI
+    
+    
+    
 # Creating the Bag of Words Model
 # Bag of Words Model is a sparse matrix where each row is the review and each column is a unique 
 # word from the reviews.
